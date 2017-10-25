@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="DisableScrollPastEnd.e7697255-ccdc-47e7-b3d1-1b54fd961de4" Version="1.3" Language="en-US" Publisher="Andrew Larsson" />
+        <Identity Id="DisableScrollPastEnd.e7697255-ccdc-47e7-b3d1-1b54fd961de4" Version="1.3.1" Language="en-US" Publisher="Andrew Larsson" />
         <DisplayName>Disable Scroll Past End</DisplayName>
         <Description xml:space="preserve">Disables scrolling past the end of a document in the Editor. Only works with the scroll wheel for now (you can still scroll past the end if you use the scroll bar).</Description>
     </Metadata>
